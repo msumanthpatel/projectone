@@ -29,7 +29,7 @@ Projects
 
 ----------------------------------
 ## GITHUB
-* git confi*g --global user.email "you@example.com"
+* git config --global user.email "you@example.com"
 * git config --global user.email sumanthpatel126@gmail.com
 * git config --global user.name "Your Name"
 * git config --global user.name "sumanth patel"
